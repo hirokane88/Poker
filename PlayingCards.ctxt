@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PlayingCards
+comment1.params=
+comment1.target=PlayingCards()
+comment2.params=faceNum
+comment2.target=java.lang.String\ getFace(int)
+comment3.params=
+comment3.target=Card\ dealCard()
+comment4.params=
+comment4.target=void\ shuffle()
+numComments=5

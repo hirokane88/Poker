@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CardsRunner
+comment0.text=\r\n\ Test\ of\ PlayingCards\r\n\r\n\ @author\ (your\ name)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=hand\ cards
+comment2.target=void\ checkHand(java.lang.String,\ PlayingCards)
+comment2.text=\r\n\ Given\ a\ String\ representing\ a\ hand\ name,\ repeatedly\ deal\ out\r\n\ poker\ hands\ until\ the\ specified\ hand\ comes\ up.\ \ Print\ out\ how\r\n\ many\ hands\ it\ took\ to\ get\ the\ desired\ hand.\r\n\r\n\ @param\ hand\ is\ a\ String\ representing\ which\ hand\ we\ are\ looking\ for.\r\n\ \ \ Options\ are\ \:\ "flush",\ "pair",\ "two\ pair",\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ "three\ of\ a\ kind",\ "four\ of\ a\ kind",\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ "straight",\ "full\ house",\ "straight\ flush"\r\n\ @param\ cards\ \:\ the\ deck\ of\ cards\ object\ to\ deal\r\n
+numComments=3

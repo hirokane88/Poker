@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NumericFace
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AbstractDie\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getNumFaces()
+comment2.params=numFaces
+comment2.target=void\ setNumSides(int)
+comment3.params=
+comment3.target=int\ getCurrentValue()
+comment4.params=faceNum
+comment4.target=java.lang.String\ getFace(int)
+comment5.params=
+comment5.target=java.lang.String\ getCurrentFace()
+comment6.params=
+comment6.target=int\ randomize()
+numComments=7
